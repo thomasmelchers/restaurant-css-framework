@@ -67,9 +67,9 @@ Then each html *page will* be linked to a special *css file* (named as the name 
 ## RESSOURCES
 
 ### FONTS
-I use two different fonts I pick on google fonts : 
-* [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat)
+I use one different fonts I pick on google fonts : 
 * [Kalam](https://fonts.google.com/specimen/Kalam?query=kalam)
+* a sans-serif font will be displayed if the 'kalam font' doesn't work.
 
 ### ICONS
 There are coming from font awesome
