@@ -53,10 +53,6 @@ p{
     font-weight:300;
 }
 
-.nav-link-color{
-    color: green;
-}
-
 .nav-link:hover{
     background-color: #F8A41E;
     border: 1px solid #F8A41E;
@@ -123,6 +119,10 @@ p{
 }
 
 /* ------------------------------------------------------ FOOTER ---------------------------------------------- */
+.bgFooter{
+    background-color: #382507;
+}
+
 
 .footerTitle{
     font-family: 'Kalam';
@@ -136,7 +136,12 @@ p{
 }
 
 .footerLinks{
-    color: #F04628;
+    color: rgb(247, 97, 17);
+    text-decoration: none;
+}
+
+.footerLinks:hover{
+    color:#F8A41E;
     text-decoration: none;
 }
 
@@ -148,11 +153,11 @@ p{
     color: #F8A41E;
 }
 
-.fa-paper-plane{
-    color: #F04628;
+.btn-outline-light{
+    background-color: #F8A41E;
 }
 
-.fa-paper-plane:hover{
+.fa-paper-plane{
     color: #F04628;
 }
 
