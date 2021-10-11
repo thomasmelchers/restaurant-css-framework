@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
+.containerImagePictures{
+    background-image: url("../background/vanilleBackground.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: cover;
+}
+
+/* -------------------------------- CARD ------------------------------------------------------- */
+
+/* .card{
+
+} */
+
+.titreCard{
+    font-family: 'Kalam';
+    color: #F04628;
+    font-size: em;
+}
+
+.foodCard{
+    border: 1px solid #F04628;
+}
+
+.card-body-image{
+    background-color: #F04628;
+}

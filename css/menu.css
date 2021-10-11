@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
+.containerImageMenu{
+    background-image: url("../background/cannelleBackground.jpeg");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+
+.colonneMenu{
+    font-weight: 500;
+    border-right: 1px solid #F04628;
+}
+
+.colonnePrix{
+    text-align: center;
+}
