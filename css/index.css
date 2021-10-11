@@ -19,6 +19,18 @@
 }
 
 /* ----------------------------------------------------- CARD --------------------------------------------------------- */
+/* TITRE CARD */
+
+.display-3 {
+    font-family: 'Kalam';
+    color: #F04628; 
+}
+
+p{
+    font-weight: 500;
+    color: #382507;
+}
+
 .boutonCard{
     display: inline-block;
     align-self: center;

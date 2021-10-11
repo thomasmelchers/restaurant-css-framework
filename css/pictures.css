@@ -9,11 +9,6 @@
 }
 
 /* -------------------------------- CARD ------------------------------------------------------- */
-
-/* .card{
-
-} */
-
 .titreCard{
     font-family: 'Kalam';
     color: #F04628;
@@ -26,4 +21,9 @@
 
 .card-body-image{
     background-color: #F04628;
+}
+
+p{
+    font-weight: 500;
+    color: #382507;
 }

@@ -11,24 +11,7 @@ body {
 }
 
 
-/* ----------------------------- CARD -------------------------------- */
-/* TITRE CARD */
 
-.display-4 {
-    font-family: 'Kalam';
-    font-weight: 900;
-    color: #382507;
-}
-
-.display-3 {
-    font-family: 'Kalam';
-    color: #F04628;  /* #FC6112 */
-}
-
-p{
-    font-weight: 500;
-    color: #382507;
-}
 
 /* ------------------------------------------ NAV BAR ------------------------------- */
 
@@ -70,10 +53,12 @@ p{
 }
 
 /* ----------------------- JUMBOTRON -------------------------------------- */
+/* TITRE Jumbotron */
 
-.jumbotronP{
-    color: #261b1b;
-    font-weight: 500;
+.display-4 {
+    font-family: 'Kalam';
+    font-weight: 900;
+    color: #382507;
 }
 
 .underTitle{
@@ -86,6 +71,13 @@ p{
 .my-4{
     color: #F04628;
 }
+
+.jumbotronP{
+    color: #261b1b;
+    font-weight: 500;
+}
+
+/* bouton jumbotron */
 
 .bouttonJumbotron{
     display: inline-block;
