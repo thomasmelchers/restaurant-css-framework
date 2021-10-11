@@ -4,9 +4,9 @@
 /* ------------------------------------ BACKGROUND ----------------------------------------- */
 
 .containerImageMenu{
-    background-image: url("../background/cannelleBackground.jpeg");
+    background-image: url("../images/Background/tableSpices.jpg");
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: left;
     background-size: cover;
 }
 

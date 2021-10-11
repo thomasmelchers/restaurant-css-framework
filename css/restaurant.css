@@ -3,9 +3,9 @@
 
 /* ------------------------------------ BACKGROUND ----------------------------------------- */
 .containerImageRestaurant{
-background-image: url("../background/baieroseBackground.jpg");
+background-image: url("../images/Background/duoSpices.jpg");
 background-repeat: no-repeat;
-background-position: bottom left;
+background-position: left;
 background-size: cover;
 }
 

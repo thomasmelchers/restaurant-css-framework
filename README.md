@@ -76,6 +76,6 @@ There are coming from font awesome
 [fontawesome](https://fontawesome.com/)
 
 ### PICTURES
-I have chosen pictures which are not royality-free, this is my bad. 
-* the background pictures are coming from [futura-sciences](futura-sciences.com);
+I have chosen pictures from two different sources. One is roality-free and the other one not, this is my bad. It try to change it all to royality-free, I've done my best. 
+* the background pictures are coming from [Unsplash](unsplash.com);
 * the pictures of the meals are coming from [Cuisinez sri lankais](https://www.instagram.com/cuisinezsrilankais/?hl=fr);

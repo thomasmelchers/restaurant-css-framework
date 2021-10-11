@@ -5,9 +5,9 @@
 /* ------------------------------------ BACKGROUND ----------------------------------------- */
 
 .containerImageContact{
-    background-image: url("../background/anisBackground.jpg");
+    background-image: url("../images/Background/spicesJar.jpg");
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-position: left;
     background-size: cover;
 }
 

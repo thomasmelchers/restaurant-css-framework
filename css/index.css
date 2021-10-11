@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
 
 .containerimage{
-    background-image: url("../background/epiceBackground.jpg");
+    background-image: url("../images/Background/fourSpoon.jpg");
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: left;
     background-size: cover;
 }
 

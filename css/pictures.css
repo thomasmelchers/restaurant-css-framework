@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
 
 .containerImagePictures{
-    background-image: url("../background/vanilleBackground.jpg");
+    background-image: url("../images/Background/spiceBucket.jpeg");
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-position: left;
     background-size: cover;
 }
 
