@@ -6,7 +6,7 @@
 Building a restaurant **Curry Paradise** web page with the framework Bootstrap 5 (latest edition). The goal of this exercice is to discover how to use Bootstrap and how to integrate some of its components. This website has been developed with a mobile-first approach and it is responsive for tablet and computer. 
 
 ### Theme 
-I create an imaginary restaurant for this exercice. It is focused on the Sri Lankan gastronomy.
+I create an imaginary restaurant for this exercice. It is focused on the Sri Lankan gastronomy. All the subjects display on the website are true. The location and the contact details have been imaginated. 
 
 ## Instructions to create the website
 
@@ -67,12 +67,13 @@ Then each html *page will* be linked to a special *css file* (named as the name 
 ## RESSOURCES
 
 ### FONTS
-I use one different fonts I pick on google fonts : 
+I use two different fonts I pick on google fonts : 
 * [Kalam](https://fonts.google.com/specimen/Kalam?query=kalam)
+* [Montserrat](https://fonts.google.com/?query=montserrat)
 * a sans-serif font will be displayed if the 'kalam font' doesn't work.
 
 ### ICONS
-There are coming from font awesome
+Icons are coming from font awesome
 [fontawesome](https://fontawesome.com/)
 
 ### PICTURES
