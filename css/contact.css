@@ -13,15 +13,19 @@
 
 /* -------------------------------------- FORM ------------------------------------------- */
 .formStyle{
-    border: 2px solid #F04628;
+    border: 2px solid #FC6112;
     border-radius: 5px;
     padding: 5%;
+}
+
+.formText{
+    color: #382507;
 }
 
 .fontForm{
     font-family: 'Kalam';
     font-size: em;
-    color: #515151;
+    color: #382507;
     padding: 0%;
     margin: 0%;
 }
@@ -32,7 +36,7 @@
     font-family: 'Kalam';
     font-weight: 500;
     line-height: 1.5;
-    color: #F04628;
+    color: #FC6112;
     text-align: center;
     text-decoration: none;
     vertical-align: middle;
@@ -41,14 +45,14 @@
     -moz-user-select: none;
     user-select: none;
     background-color: transparent;
-    border: 1px solid #F04628;
+    border: 2px solid #FC6112;
     padding: .375rem .75rem;
     font-size: 1.5rem;
     border-radius: .25rem;
 }
 
 .bouton:hover{
-    background-color: #F04628;
-    border: 1px solid #F04628;
+    background-color: #FC6112;
+    border: 2px solid #FC6112;
     color: #F8A41E;
 }

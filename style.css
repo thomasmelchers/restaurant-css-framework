@@ -17,16 +17,17 @@ body {
 .display-4 {
     font-family: 'Kalam';
     font-weight: 900;
+    color: #382507;
 }
 
 .display-3 {
     font-family: 'Kalam';
-    color: #F04628;
+    color: #F04628;  /* #FC6112 */
 }
 
 p{
     font-weight: 500;
-    color: #515151;
+    color: #382507;
 }
 
 /* ------------------------------------------ NAV BAR ------------------------------- */
@@ -41,10 +42,19 @@ p{
     font-family: 'Kalam';
     font-size: 5em;
 }
+
+#couleurLogo  {
+    color: #F8A41E;
+}
+
 .nav-link{
     font-family: 'Kalam';
     font-size: em;
     font-weight:300;
+}
+
+.nav-link-color{
+    color: green;
 }
 
 .nav-link:hover{
@@ -59,6 +69,10 @@ p{
     border-radius: 5px;
 }
 
+.bgNav{
+    background-color: rgb(247, 97, 17);
+}
+
 /* ----------------------- JUMBOTRON -------------------------------------- */
 
 .jumbotronP{
@@ -66,12 +80,49 @@ p{
     font-weight: 500;
 }
 
-.lead{
-    color: #261b1b;
+.underTitle{
+    font-family: 'kalam';
+    font-size: 1.5em;
+    color: #382507;
     font-weight: 900;
 }
 
-/* FOOTER */
+.my-4{
+    color: #F04628;
+}
+
+.bouttonJumbotron{
+    display: inline-block;
+    align-self: center;
+    font-family: 'Kalam';
+    font-weight: 500;
+    line-height: 1.5;
+    color: #382507;
+    background-color: rgba(248, 164, 30, 0.75);
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: 2px solid #382507;
+    padding: .375rem .75rem;
+    font-size: 1.5rem;
+    border-radius: .25rem;
+}
+
+.bgJumbo{
+   background-color: rgba(248, 164, 30, 0.75);
+}
+
+.bouttonJumbotron:hover{
+    background-color: #382507;
+    border: 2px solid #382507;
+    color: #F8A41E;
+}
+
+/* ------------------------------------------------------ FOOTER ---------------------------------------------- */
 
 .footerTitle{
     font-family: 'Kalam';

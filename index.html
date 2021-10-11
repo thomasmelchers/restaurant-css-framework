@@ -20,9 +20,9 @@
 <body>
 <div class="containerimage pt-5 pb-5">
     <!-- NAVIGATION BAR -->
-    <nav class="navbar navbar-expand-sm navbar-light sticky-top border-bottom-3 border-top-1" style="background-color: rgb(247, 97, 17);">
+    <nav class="navbar navbar-expand-sm navbar-light sticky-top bgNav">
         <div class="container-fluid">
-        <a href="index.html" class="navbar-brand ps-5"><i class="fas fa-pepper-hot pe-1"></i>
+        <a href="index.html" class="navbar-brand ps-5" id="couleurLogo"><i class="fas fa-pepper-hot pe-1"></i>
             Curry Paradise</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#toggleMobileMenu" aria-controls="toggleMobileMenu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -33,7 +33,7 @@
                     <a class="nav-link active" aria-current="page" href="index.html">Welcome</a>
                 </li>
                 <li>
-                    <a class="nav-link" href="menu.html">Menu</a>
+                    <a class="nav-link nav-link-color" href="menu.html">Menu</a>
                 </li>
                 <li>
                     <a class="nav-link" href="pictures.html">Pictures</a>
@@ -53,12 +53,12 @@
     <div class="container-fluid mt-5" >
         <div class="row justify-content-lg-center">
         <div class="col-lg-10">
-            <div class="h-100 p-5 border-0 rounded-3" style="background-color: rgba(248, 164, 30, 0.65);">
+            <div class="h-100 p-5 border-0 rounded-3 bgJumbo">
                 <h1 class="display-4">Welcome at Curry Paradise</h1>
-                <p class="lead">The savourous gastronomy of Sri Lanka.</p>
+                <p class="underTitle">The savourous gastronomy of Sri Lanka</p>
                     <hr class="my-4">
                 <p class="jumbotronP">Ayubowan ! You arrive at right place to taste the unique Sri Lankan gastronomy. Our cooking is inspired to the nation Sri Lankan dish, the Rice and Curry. Here you will receive some rice and all around differents dishes with curry.</p>
-                <button class="btn btn-outline-secondary bouttonJumbotron" type="button">Example button</button>
+                <button class="bouttonJumbotron" type="button">Book a Table</button>
             </div>
         </div>
         </div>
@@ -66,23 +66,25 @@
 </div> <!-- div container image -->
     <!-- CARDS CONTAINER & CARDS-->
     <div class="container-fluid mycontainer pt-5 pb-5">
-        <div class="row justify-content-sm-center justify-content-lg-around">
+        <div class="row justify-content-center justify-content-lg-around">
             <!-- CARD 1 -->
-            <div class="card shadow rounded-3 order-1 m-2" style="width: 30rem">
+            <div class="card shadow rounded-3 order-1 m-2" style="width: 28rem">
                 <img src="images/eventsCard.jpg" class="card-img-top pt-3" alt="events at Curry Paradise" style="height: 255px;">
                 <div class="card-body">
                     <h2 class="display-3">Events</h2>
                     <hr class="my-4">
                   <p class="card-text">Are you interested in the Sri Lankan culture ? Do you want to know how to prepare the best rice and curry ? At Curry Paradise, we organize loads of events about Sri Lanka. You can come to celebrate some of the famous celebrations around a traditionnal feast meal or following a conference about the benefits of spices or even try to make your own sambol. Check our calendar over here.</p>
+                  <button class="boutonCard" type="button">Check our calendar over</button>
                 </div>
             </div>
             <!-- CARD 2 -->
-            <div class="card shadow rounded-3 order-2 m-2" style="width: 30rem">
+            <div class="card shadow rounded-3 order-2 m-2" style="width: 28rem">
                 <img src="images/slowFoodCard.jpg" class="card-img-top pt-3" alt="slow food market" style="height: 255px;">
                 <div class="card-body">
                     <h2 class="display-3">Slow Food</h2>
                     <hr class="my-4">
-                    <p class="card-text">At Curry Paradise, we respect nature because all our ingredients are coming from mother Earth. So all our ingredients are coming from organic productions and we select only vegetables and fruits in accord to their season. So the menu at Curry Paradise change really often. So come to see us to taste our new receipes !</p>
+                    <p class="card-text">At Curry Paradise, we respect nature because all our ingredients are coming from mother Earth. We are seriouslu picky about our ingredients : there are coming from merely organic suppliers and we chose only vegetables and fruits in accord to their season. Due to that consideration our menu at Curry Paradise change really often.</p>
+                    <button class="boutonCard" type="button"><a href="menu.html" class="linkStyle">Taste our new receipes !</a> </button>
                 </div>
             </div>
 

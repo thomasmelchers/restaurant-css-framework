@@ -9,17 +9,16 @@ background-position: bottom left;
 background-size: cover;
 }
 
-
-
+/* ----------------------------------- MENU HORAIRE -------------------------------------------- */
 
 .colonneResto{
-    background-color: #F04628;
+    background-color: #FC6112;
     border-radius: 5px;
     margin-bottom: 10px;
 }
 
 .rowHoraire{
-    background-color: #F04628;
+    background-color: #FC6112;
     border-radius: 5px;
 }
 
