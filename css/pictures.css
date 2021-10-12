@@ -9,6 +9,13 @@
 }
 
 /* -------------------------------- CARD ------------------------------------------------------- */
+#carte{
+    width: 26rem;
+    border: 1px solid #F04628;
+    border-radius: 6px;
+    background-color: rgba(240, 70, 40, 0.25);
+}
+
 .titreCard{
     font-family: 'Kalam';
     color: #F04628;
@@ -26,4 +33,24 @@
 p{
     font-weight: 500;
     color: #382507;
+}
+
+/* ---------------------------------------- PAGINATION ------------------------------------ */
+#pagination{
+    background-color: #F04628;
+    color: #F8A41E;
+    border: 1px solid #F8A41E;
+    font-weight: 600;
+}
+
+#pagination:hover{
+    background-color: #F8A41E;
+    color: #F04628;
+}
+
+#paginationActive{
+    background-color: #F8A41E;
+    color: #F04628;
+    border: 1px solid #F04628;
+    font-weight: 900;
 }

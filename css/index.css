@@ -8,18 +8,16 @@
     background-size: cover;
 }
 
-.linkStyle{
-    text-decoration: none;
-    color: #FC6112;
-}
 
-.linkStyle:hover{
-    text-decoration: none;
-    color: #F8A41E;
-}
 
 /* ----------------------------------------------------- CARD --------------------------------------------------------- */
-/* TITRE CARD */
+
+#carte{
+    width: 28rem;
+    border: 1px solid #F04628;
+    border-radius: 6px;
+    background-color: rgba(240, 70, 40, 0.25);
+}
 
 .display-3 {
     font-family: 'Kalam';
@@ -37,7 +35,7 @@ p{
     font-family: 'Kalam';
     font-weight: 500;
     line-height: 1.5;
-    color: #FC6112;
+    color: #F04628;
     text-align: center;
     text-decoration: none;
     vertical-align: middle;
@@ -46,14 +44,24 @@ p{
     -moz-user-select: none;
     user-select: none;
     background-color: transparent;
-    border: 2px solid #FC6112;
+    border: 2px solid #F04628;
     padding: .375rem .75rem;
     font-size: 1.5rem;
     border-radius: .25rem;
 }
 
 .boutonCard:hover{
-    background-color: #FC6112;
-    border: 2px solid #FC6112;
+    background-color: #F04628;
+    border: 2px solid #F04628;
+    color: #F8A41E;
+}
+
+.linkStyle{
+    text-decoration: none;
+    color: #F04628;
+}
+
+.linkStyle:hover{
+    text-decoration: none;
     color: #F8A41E;
 }

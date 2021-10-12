@@ -47,7 +47,7 @@ body {
 }
 
 .bgNav{
-    background-color: rgb(247, 97, 17);
+    background-color: #FC6112;
 }
 
 /* ----------------------- JUMBOTRON -------------------------------------- */
@@ -127,7 +127,7 @@ body {
 }
 
 .footerLinks{
-    color: rgb(247, 97, 17);
+    color: #FC6112;
     text-decoration: none;
 }
 
@@ -137,7 +137,7 @@ body {
 }
 
 .socialNetworkBouton{
-    color: #F04628;
+    color: #FC6112;
     
 }
 .socialNetworkBouton:hover{
@@ -149,7 +149,7 @@ body {
 }
 
 .fa-paper-plane{
-    color: #F04628;
+    color: #FC6112;
 }
 
 /* COPYRIGHT */
