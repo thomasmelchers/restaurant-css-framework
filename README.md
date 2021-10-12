@@ -5,7 +5,7 @@
 ## Curry Paradise
 Building a restaurant **Curry Paradise** web page with the framework Bootstrap 5 (latest edition). The goal of this exercice is to discover how to use Bootstrap and how to integrate some of its components. This website has been developed with a mobile-first approach and it is responsive for tablet and computer. 
 
-### Theme 
+### Subject
 I create an imaginary restaurant for this exercice. It is focused on the Sri Lankan gastronomy. All the subjects display on the website are true. The location and the contact details have been imaginated. 
 
 ## Instructions to create the website
@@ -32,6 +32,13 @@ I create 5 HTML pages
 
 Each page has been established on the same structure : a navigation bar on top, a jumbotron and a footer ont the bottom. At the back of the navigation bar and the jumbotron component there is a background image which will be different on every pages (excepted on the 4 pictures pages). Under the jumbotron, there will be places to host other components that will be displayed on the different pages. 
 
+![alt text](readmePictures/pageDesign.jpeg 'general page design')
+
+* **On the *index page*:**
+The index has to contain two cards and a jumbotron. The two cards are responsive and go under each other when there is not enough space. The jumbotron is full size on mobile device and goes narrow when screen goes up. 
+
+![alt text](readmePictures/inderPageDesign.jpg 'index')
+
 * **On the *menu page*:**
 The content of the page is about the menu of the restaurant.
 There is a list-group component which has been used to establish the menu. Some badges have been setled up next to some meals. The badge has the mission to show which of the meals are vegan. 
@@ -48,6 +55,9 @@ Each information has been nested in a special column of a general grid which eas
 * **On the **contact page*:***
 The role of this page is to create a form like this the clients can be in touch with the restaurant. We have several required fields (Firstname, Name, Email, Subject and a text area). We used a dropdown list to show the different subject options. 
 
+* **The navigation bar**
+
+![alt text](readmePictures/navigationBarDesign.jpeg 'navigationBarDesign')
 
 #### Style sheets
 I create a file *style.css* where I write all the code which will affect the style of every pages. So in this file we will have the style for : 
@@ -63,6 +73,13 @@ Then each html *page will* be linked to a special *css file* (named as the name 
 * The style of the buttons;
 * The text & titles styles;
 * Some padding and margin.
+
+##### Colors
+All the colors I select refer to the one of the spice, the tumeric, which gives the color of the curry. #F8A41E
+Then with this color, I found some matching colors which I can use the build the website. 
+![alt text](readmePictures/Color.jpeg 'color')
+![alt text](readmePictures/color-shade.jpeg 'color shade')
+![alt text](readmePictures/color-composite.jpeg 'color composite')
 
 ## RESSOURCES
 
