@@ -57,7 +57,12 @@ The role of this page is to create a form like this the clients can be in touch 
 
 * **The navigation bar**
 
-![alt text](readmePictures/navigationBarDesign.jpg 'navigationBarDesign')
+![alt text](readmePictures/navigationBarDesign.jpg 'Navigation Bar Design')
+
+* **components design**
+
+![alt text](readmePictures/componentsDesign.jpg 'Components Design')
+![alt text](readmePictures/componentsDesign2.jpg 'Components Design')
 
 #### Style sheets
 I create a file *style.css* where I write all the code which will affect the style of every pages. So in this file we will have the style for : 
@@ -94,6 +99,6 @@ Icons are coming from font awesome
 [fontawesome](https://fontawesome.com/)
 
 ### PICTURES
-I have chosen pictures from two different sources. One is roality-free and the other one not, this is my bad. It try to change it all to royality-free, I've done my best. 
+I have chosen pictures from two different sources. One is roality-free and the other one not, this is my bad. It try to change it all to royality-free, I've done my best. All the pictures have been resizing to fit well and have less space when the page shows. 
 * the background pictures are coming from [Unsplash](unsplash.com);
 * the pictures of the meals are coming from [Cuisinez sri lankais](https://www.instagram.com/cuisinezsrilankais/?hl=fr);
