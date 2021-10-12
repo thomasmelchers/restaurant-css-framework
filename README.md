@@ -32,12 +32,12 @@ I create 5 HTML pages
 
 Each page has been established on the same structure : a navigation bar on top, a jumbotron and a footer ont the bottom. At the back of the navigation bar and the jumbotron component there is a background image which will be different on every pages (excepted on the 4 pictures pages). Under the jumbotron, there will be places to host other components that will be displayed on the different pages. 
 
-![alt text](readmePictures/pageDesign.jpeg 'general page design')
+![alt text](readmePictures/pageDesign.jpg 'general page design')
 
 * **On the *index page*:**
 The index has to contain two cards and a jumbotron. The two cards are responsive and go under each other when there is not enough space. The jumbotron is full size on mobile device and goes narrow when screen goes up. 
 
-![alt text](readmePictures/inderPageDesign.jpg 'index')
+![alt text](readmePictures/indexPageDesign.jpg 'index')
 
 * **On the *menu page*:**
 The content of the page is about the menu of the restaurant.
@@ -57,7 +57,7 @@ The role of this page is to create a form like this the clients can be in touch 
 
 * **The navigation bar**
 
-![alt text](readmePictures/navigationBarDesign.jpeg 'navigationBarDesign')
+![alt text](readmePictures/navigationBarDesign.jpg 'navigationBarDesign')
 
 #### Style sheets
 I create a file *style.css* where I write all the code which will affect the style of every pages. So in this file we will have the style for : 
